@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">DaDetail</string>
+    <string name="label_login">Логин</string>
+    <string name="label_email">Email</string>
+    <string name="label_phone">Телефон</string>
+    <string name="label_password">Пароль</string>
+    <string name="label_enter_to_app">Вход в приложение</string>
+    <string name="label_auth">Вход</string>
+    <string name="label_continue">Продолжить</string>
+
+    <string name="label_bottom_nav_search">Поиск</string>
+    <string name="label_bottom_nav_sto">СТО</string>
+    <string name="label_bottom_nav_catalog">Каталоги</string>
+    <string name="label_bottom_nav_cart">Корзина</string>
+    <string name="label_bottom_nav_orders">Заказы</string>
+    <string name="label_nav_positions">Позиции</string>
+
+    <string name="label_search">Название или номер запчасти</string>
+
+    <string name="label_search_result_row_request">Запрашиваемый код</string>
+    <string name="label_search_result_row_original">Оригинальные аналоги</string>
+    <string name="label_search_result_row_non_original">Неоригинальные аналоги</string>
+
+    <string name="label_search_result_offer_return_type_possible">Возможен</string>
+    <string name="label_search_result_offer_return_type_impossible">Невозможен</string>
+    <string name="label_search_result_offer_return_type_limited">Ограничен</string>
+    <string name="label_search_result_offer_return_type_unknown">Неизвестно</string>
+
+    <string name="label_cart_create_order">Оформить заказ</string>
+
+    <string name="label_empty_orders_primary">Заказов нет</string>
+    <string name="label_empty_orders_secondary">Здесь будут отображаться ваши\nзаказы</string>
+    <string name="label_empty_cart_primary">Корзина пуста</string>
+    <string name="label_empty_catalog_primary">Каталог пуст</string>
+    <string name="label_empty_catalog_secondary">Скоро здесь появится каталог</string>
+    <string name="label_empty_sto_primary">СТО</string>
+    <string name="label_empty_sto_secondary">Раздел находится в разработке</string>
+
+    <string name="label_currency_rub">р.</string>
+    <string name="label_divider_slash">/</string>
+    <string name="label_part_short">шт.</string>
+
+    <string name="label_error_failed_fetch_data">Не удалось загрузить данные</string>
+</resources>
